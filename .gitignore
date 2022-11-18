@@ -1,0 +1,6 @@
+# Project exclude paths
+/poker-client/target/
+/poker-common/target/
+/poker-model/target/
+/poker-server/target/
+/target/
